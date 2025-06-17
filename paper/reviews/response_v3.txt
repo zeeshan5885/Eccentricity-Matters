@@ -1,0 +1,24 @@
+--------------------------------
+Response to first Major Concern:
+--------------------------------
+We did the same as you described in your report and added the M_{ecc} in Equation 12 . However, we admit that we did not explain it clearly in script and notations makes it more confusing.  Therefore, we used the updated distinct notations to show the different chirp masses. You can see it in updated script and thank you for bringing this up.
+---------------------------
+Response to Minor Concerns:
+---------------------------
+- We have added the caveat in conclusion with it's reference.
+
+- We run the grammar check and made improvements.
+
+- We added the definition as uncertainty in eccentricity.
+
+- While we appreciate that these topics are extensively covered in the literature, we think this is the shortest self-contained and accessible summary we could produce.
+
+- We wanted to introduce a single-parameter pessimistic model for the eccentricity distribution, in which the single most likely value of eccentricity remains consistent with zero, and consistent with astrophysical expectations.
+
+- Admittedly, it is just for long inspirals: https://arxiv.org/abs/1301.1895
+
+- The examples were selected ad hoc , motivated by selecting a scale such that they would be marginally accessible with an observational sample comparable to the current size.
+
+- We made the new plot with normalized histogram.
+
+- In addition to above changes, we also change the figures for sigma_ecc=0.15 for nicer plots. To do this, we  used the different realization and made a new inference. It did not change our discussion or results.

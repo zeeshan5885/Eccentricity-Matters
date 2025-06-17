@@ -1,0 +1,33 @@
+----------------------------------------------------------------------
+Second Report of the Referee -- DS13372/Zeeshan
+----------------------------------------------------------------------
+
+Response to the second submission:
+
+Major concern 1: I do not agree with the comment that the study makes any sense
+without defining eccentricity at some reference frequency. The eccentric chirp
+mass definition (eqn 16) is only valid for very small eccentricities defined at
+10 Hz. So errors on the eccentric chirp mass need to be defined at 10 Hz else
+the errors and relative chirp mass shifts will be misleading. For example, let
+us assume that the eccentricities are measured at 40 Hz but the distribution
+(\sigma_e = 0.15) is defined at 10 Hz. In this case, it is very unlikely that we
+will measure any eccentricity at 40 Hz and by then the binary would have been
+circularized. On the other hand, if the eccentricities are defined at 40 Hz, the
+definition of eccentric chirp mass will not make any sense and it will be
+invalid as at 10 Hz eccentricities would have been too large.
+
+Hence one needs to correctly account for reference frequency when determining
+errors in parameter measurements for this study to be astrophysical relevant.
+This should apply to the statement in the abstract as well: "Our analysis
+demonstrates that eccentric population inference can identify the signatures of
+even modest eccentricity distribution defined at reference frequency f_0."
+
+I think the inconsistencies in the semi-analytical chirp mass - eccentricity
+(via eccentric chirp mass) error modelling need to be a least clearly stated
+with the inclusion reference frequencies if not completely rectified by evolving
+eccentricities or recalibrating chirp mass errors at 10 Hz.
+
+
+Major concern 2 is well addressed by the new paragraph on page 5.
+
+There are no further comments.

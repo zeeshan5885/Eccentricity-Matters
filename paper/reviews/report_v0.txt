@@ -1,0 +1,40 @@
+In this work, the authors try to understand the effect of including
+eccentricity in the population analysis of BBH mergers. They show that
+even small signatures of the presence of eccentricity can be
+identified. The method and work is good but there are a couple of
+major concerns that need to be addressed before publishing of the
+manuscript.
+
+Major concerns:
+
+1. The reference frequency (f_0) for this work is noted as 20 Hz in
+the text between equations 13 and 14. As per the ref 52, eqn 16 valid
+for f_0 = 10. There is no mention of eccentricity evolution as a
+function of frequency that is used to estimate the correct eccentric
+chirp mass at 10 Hz (for example, see Fig 5 of
+https://arxiv.org/pdf/2402.07892). Then one needs to examine the
+validity of the eqn 15 for the sigma_ecc = 0.15 case.
+
+2. For total mass in the range of 20-100 solar masses, merger-ringdown
+part contributes significantly. Eqn 16 is mainly valid in the
+inspiral-dominated region of the mass space. This usually implies that
+the errors in the masses are underestimated. Comments on this are
+warranted.
+
+Then there are a few minor comments:
+1. By contrast, for low-mass binaries, previous studies have
+demonstrated that eccentricities can be particularly well- constrained
+(for low-mass objects) [51], owing to their long modulated inspiral
+[52], even it improves the accuracy in parameter inference [53].
+Repetition to be removed.
+
+2. To extend our analysis, we compared constrained parameters using
+the EBBH and CBBH, which …. It would be good to explain E/CBBH here
+even though it seems obvious.
+
+3. We use the likelihood provided in Eq. 2 in the Bayes theorem
+defined in Eq. 3 to find … (Eq 1 instead of 3 here)
+
+4. Horizon distance for a given event changes (increases) with the
+inclusion of eccentricity. How was that accounted for?
+

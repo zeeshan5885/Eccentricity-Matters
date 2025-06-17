@@ -1,0 +1,15 @@
+----------------------------------------------------------------------
+Third Report of the Referee -- DS13372/Zeeshan
+----------------------------------------------------------------------
+The added paragraph does not solve major concern 1 that I have raised.
+It only states that the eccentricity is defined at 10 Hz. But the
+errors on the measurements of chirp mass are drawn from the
+distributions with parameter \beta fitted with velocity (v = (\pi
+m_c^{e} f_1)^(1/3)) corresponding to reference frequency of 20 Hz
+which is a function of eccentric chirp mass for EBBH. But the m_c^{e}
+is defined at 10 Hz as per the eccentricity.
+
+All this makes measurement of m_c^{e} and related error inconsistent.
+I recommend using errors on m_c and m_c^{e} do be drawn using \beta
+defined at f = 10 Hz and rerunning the analysis assuming parameter
+estimation is done with the reference frequency of 10 Hz.

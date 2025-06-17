@@ -1,0 +1,20 @@
+Response to Major Concern.
+
+1. In this work, we adopt semianalytic estimates for how well eccentricity can be measured. We have at no point
+  specified the reference frequency used to characterize eccentricity.  Rather, the reference frequency used was chosen
+  to calibrate an estimate of the chirp mass uncertainty, ignoring correlations.  Within the context of our simplified likelihood
+  model for each event, we don't need to evolve any parameters with frequency.
+
+2. We have added a paragraph at the end of section III-A to explain our likelihood model is motivated by the inspiral-dominated regime. 
+
+
+Response to Minor Concerns.
+
+1. It's fixed in the text.
+
+2. Explained in the text.
+
+3. We actually meant to say equation 3 instead of equation 1. But we rewrote that line to avoid any confusion. The equation 1 is about small lambda and equation 3 is for capital lambda.
+
+4. Yes, it does change. However, we did not consider the effect of eccentricity on detection(volume) at this
+stage. We applied the same detection effects for eccentric and circular binary. 

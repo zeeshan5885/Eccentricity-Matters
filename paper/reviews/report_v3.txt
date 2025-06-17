@@ -1,0 +1,60 @@
+
+---------------------------
+Message From Editor:
+---------------------------
+
+Your manuscript has been reviewed by a new referee, Referee B. We
+consulted Referee B both because the original referee recommended that
+we consult a new referee and it seemed that the review was not
+converging with the first referee. Comments from Referee B are
+appended for your consideration.
+
+When you resubmit, please provide a response to the comments of the
+referee and a summary of any changes made to the manuscript.
+
+
+----------------------------------------------------------------------
+Report of Referee B -- DS13372/Zeeshan (New Referee)
+----------------------------------------------------------------------
+
+I have read the latest version of the paper as well as the previous
+correspondence between the authors and the referee.
+
+I don't understand the first point in the authors' latest reply. They
+assume that analyzing an eccentric binary with a quasi-circular
+template effectively absorbs the eccentricity into a redefinition of
+the chirp mass via Equation 16. When computing the error according to
+this assumption, one should substitute Mecc into McT in Equation 12.
+This implies that the uncertain value of Mc depends on the
+eccentricity. This seems like an inconsistent assumption, as pointed
+out by the previous referee. If this is not the case, I urge the
+authors to clarify this point very clearly in the draft.
+
+
+While reading the draft, I noted the following points for improvement:
+
+- The degeneracy between spin precession (here neglected) and
+eccentricity can be crucial (e.g., arxiv:2211.07528). This is an
+important caveat to this study.
+
+- Please run a grammar check; some sentences do not flow well.
+
+- Please define sigma_e in both the abstract and the introduction.
+
+- Sections 2.A-B-C can be greatly shortened. Only a few technical
+details are necessary; repeating the formalism is not.
+
+- Why use a one-sided Gaussian for the eccentricity? Is this motivated
+by some astrophysical models?
+
+- The assumption that VT does not depend on the eccentricity is a
+strong one, with potentially disruptive consequences for the paper's
+main conclusions. It is well known that Bayesian population fits are
+very sensitive to the treatment of selection effects. Please comment
+on this point. The authors could easily implement an SNR cut using
+eccentric waveforms. Why are they taking a shortcut here?
+
+- More details are needed on how the errors on the eccentricity were
+chosen.
+
+- Please normalize the histograms in Figure 5.
