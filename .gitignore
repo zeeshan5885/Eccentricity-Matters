@@ -1,0 +1,26 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment and data files
+.env
+*.dat
+*.h5
+*.hdf5
+*.DS_Store
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+data/
+
+# Ignore VS Code settings
+.vscode/
